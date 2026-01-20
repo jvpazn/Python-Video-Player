@@ -74,4 +74,4 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento:
 
     Python-VLC (Bindings do VLC)
 
-Developed with 💜 by [Seu Nome]
+Developed with 💜 by Jvpazn
